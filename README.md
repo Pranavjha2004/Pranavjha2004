@@ -118,7 +118,7 @@
 </a>
 
 <a href="https://github.com/Pranavjha2004/MasterOfKeys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=Master-Of-Keys&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=MasterOfKeys&theme=tokyonight" />
 </a>
 
 </p>
@@ -127,34 +127,35 @@
 
 ## 💼 Highlight Projects
 
-<!-- <p align="center">
+<p align="center">
 
-<a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/🚀%20Urban%20Loop-Live%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+<!-- 🚀 Urban Loop -->
+<a href="https://github.com/Pranavjha2004/Urban-Loop">
+  <img src="https://img.shields.io/badge/🚀%20Urban%20Loop-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/Pranavjha2004/Urban-Loop">
-  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" />
+<a href="https://urban-loop-demo.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br><br>
 
-<a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/🔥%20MERN%20Master-Of-Keys-blue?style=for-the-badge&logo=react" />
-</a>
-
+<!-- 🔥 Master Of Keys -->
 <a href="https://github.com/Pranavjha2004/MasterOfKeys">
-  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🔥%20Master%20Of%20Keys-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-</p> -->
+<a href="https://master-of-keys.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
+</p>
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavjha2004&theme=tokyonight&no-frame=false&margin-w=15&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavjha2004&theme=algolia&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
