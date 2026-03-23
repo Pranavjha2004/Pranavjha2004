@@ -152,14 +152,6 @@
 </p>
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavjha2004&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 ## ✨ Contribution Snake
 
 <p align="center">
