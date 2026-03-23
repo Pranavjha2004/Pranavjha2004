@@ -117,8 +117,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=Urban-Loop&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Pranavjha2004/YOUR-SECOND-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=YOUR-SECOND-REPO&theme=tokyonight" />
+<a href="https://github.com/Pranavjha2004/MasterOfKeys">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=Master-Of-Keys&theme=tokyonight" />
 </a>
 
 </p>
@@ -127,7 +127,7 @@
 
 ## 💼 Highlight Projects
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://your-live-demo-link.com">
   <img src="https://img.shields.io/badge/🚀%20Urban%20Loop-Live%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -147,7 +147,7 @@
   <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" />
 </a>
 
-</p>
+</p> -->
 
 ---
 
