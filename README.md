@@ -10,7 +10,16 @@
 
 ---
 
+## 🟢 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranavjha2004&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p>
+
+---
+
 ## 🌐 Portfolio
+
 <p align="center">
   <a href="https://pranavs-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -20,6 +29,7 @@
 ---
 
 ## 🚀 Current Work
+
 - 🔭 Working on **Urban Loop**
 - 🌱 Learning **Node.js, Express.js, MongoDB**
 - 💬 Ask me about **React, Tailwind, JavaScript**
@@ -28,6 +38,7 @@
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/pranav-kumar-jha-2669722b5">
     <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Jha-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -42,22 +53,22 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 ### 🌐 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### 🛠 Tools
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,linux,arduino,matlab" />
 </p>
 
@@ -76,14 +87,74 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjha2004&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Pranavjha2004/Urban-Loop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=Urban-Loop&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Pranavjha2004/YOUR-SECOND-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavjha2004&repo=YOUR-SECOND-REPO&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+## 💼 Highlight Projects
+
+<p align="center">
+
+<a href="https://your-live-demo-link.com">
+  <img src="https://img.shields.io/badge/🚀%20Urban%20Loop-Live%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/Pranavjha2004/Urban-Loop">
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<a href="https://your-live-demo-link.com">
+  <img src="https://img.shields.io/badge/🔥%20MERN%20Todo-App-blue?style=for-the-badge&logo=react" />
+</a>
+
+<a href="https://github.com/Pranavjha2004/YOUR-TODO-REPO">
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
 ## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranavjha2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## ✨ Fun Touch
+## ✨ Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=120&section=footer"/>
 </p>
