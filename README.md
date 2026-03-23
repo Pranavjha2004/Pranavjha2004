@@ -4,11 +4,6 @@
 🚀 Full Stack Developer | MERN Stack Enthusiast | AI/ML Explorer
 </h3>
 
-<!-- 🎥 HERO GIF BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80%" />
-</p>
-
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%7C+ML+%7C+DL+Enthusiast;Building+Scalable+Web+Apps" />
@@ -37,8 +32,8 @@
 ## 🚀 Current Work
 
 - 🔭 Working on **Urban Loop**
-- 🌱 Learning **Node.js, Express.js, MongoDB & AI/ML**
-- 💬 Ask me about **React, Tailwind, JavaScript, Python**
+- 🌱 Learning **Node.js, Express.js, MongoDB, AI/ML, GenAI**
+- 💬 Ask me about **React, Machine Learning, Deep Learning, JavaScript, Python**
 - 📫 Reach me at **jhapranav2004@gmail.com**
 
 ---
@@ -145,10 +140,10 @@
 <br><br>
 
 <a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/🔥%20MERN%20Todo-App-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/🔥%20MERN%20Master-Of-Keys-blue?style=for-the-badge&logo=react" />
 </a>
 
-<a href="https://github.com/Pranavjha2004/YOUR-TODO-REPO">
+<a href="https://github.com/Pranavjha2004/MasterOfKeys">
   <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -156,10 +151,10 @@
 
 ---
 
-## 🏆 Achievements (FIXED)
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavjha2004&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavjha2004&theme=tokyonight&no-frame=false&margin-w=15&column=4"/>
 </p>
 
 ---
